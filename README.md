@@ -11,7 +11,9 @@ and also worked with some engineering heavy stuff and got my Raspberry Pi to do 
 breadboard and Pi Wedge.
 
 Breadboard/LED Screenshots:
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+* [Final Hardware Setup](./imgs/image4.jpeg)
+* [Yellow LED (button not pressed)](./imgs/image3.jpeg)
+* [Blue LED (button pressed)](./imgs/image0.jpeg)
 
 ## Who Did What?
 
@@ -37,6 +39,7 @@ Sean Simons
 
 ## Acknowledgments
 
-[LED/Wedge Tutorial](https://learn.sparkfun.com/tutorials/raspberry-gpio?_ga=1.105514243.1841445417.1449635776)
-[Breadboard Basics](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
-[Future Project Ideas](https://dordnung.de/raspberrypi-ledstrip/)
+* [LED/Wedge Tutorial](https://learn.sparkfun.com/tutorials/raspberry-gpio?_ga=1.105514243.1841445417.1449635776)
+* [Breadboard Basics](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
+* [Future Project Ideas](https://dordnung.de/raspberrypi-ledstrip/)
+* The file sharing I build using the code I did in Computer Networks (Spring 2020/Joosten)
