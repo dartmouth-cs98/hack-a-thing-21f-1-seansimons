@@ -6,9 +6,9 @@ import java.net.Socket;
 
 public class FileHostingClient {
 
-    public final static int SOCKET_PORT = 13267;
-    public final static String SERVER = "192.168.1.16";
-    public final static String FILE_TO_RECEIVED = "/home/pi/SongServer/song.mp3";
+    public final static int SOCKET_PORT = ;
+    public final static String SERVER = ;
+    public final static String FILE_TO_RECEIVED = ;
 
     public final static int FILE_SIZE = 6022386;
 
